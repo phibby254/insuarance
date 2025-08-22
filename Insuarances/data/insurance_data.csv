@@ -1,0 +1,12 @@
+Name,Age,Health Issues,Employment,Dependents,Cost,Mobile,Email,Income,Dependents Info,Covers,Insurance Type,Monthly Cost (€),Dependents_Info,Insurance_Type,Monthly_Cost_EUR,Yearly_Cost_EUR,Health_Issues
+koki masila,37,,unemployed,1,1720.0,,,,,,,,,,,,
+njoki ndegwa,30,,employed,2,,176358890.0,njiki@gmail.com,1300.0,"[{'name': 'kamau ndegwa', 'age': 3}, {'name': 'trisha ndegwa', 'age': 5}]","Accidental (+€20/month), Tooth (+€15/month), Terminal Illnesses (+€50/month)",Governmental,265.0,,,,,
+Terry gonzales,42,,employed,4,,1578923788.0,tracy6@hotmail.com,4500.0,,"Accidental (+€20/month), Terminal Illnesses (+€50/month), Tooth (+€15/month)",,,"[{'name': '', 'age': 0}, {'name': '', 'age': 0}, {'name': '', 'age': 0}, {'name': '', 'age': 0}]",Private,345.0,4140.0,
+Terry gonzales,42,,employed,4,,1578923788.0,tracy6@hotmail.com,4500.0,,"Accidental (+€20/month), Terminal Illnesses (+€50/month), Tooth (+€15/month)",,,"[{'name': 'chelsea gonzales', 'age': 2}, {'name': 'tom gonzales', 'age': 7}, {'name': 'chloe gonzales', 'age': 10}, {'name': 'tyke Gonzales', 'age': 10}]",Private,345.0,4140.0,
+Terry gonzales,42,,employed,4,,1578923788.0,tracy6@hotmail.com,4500.0,,"Accidental (+€20/month), Terminal Illnesses (+€50/month), Tooth (+€15/month)",,,"[{'name': 'chelsea gonzales', 'age': 2}, {'name': 'tom gonzales', 'age': 7}, {'name': 'chloe gonzales', 'age': 10}, {'name': 'tyke Gonzales', 'age': 10}]",Private,345.0,4140.0,
+terry ann,20,,unemployed ,0,,152438764.0,terry.g@gmail.com,0.0,,"Accidental (+€20/month), Tooth (+€15/month), Terminal Illnesses (+€50/month)",,,[],Governmental,185.0,2220.0,
+Edward marcel,56,,self employed ,0,,157683765.0,marcel56@yahoo.com,10000.0,,"Accidental (+€20/month), Terminal Illnesses (+€50/month), Tooth (+€15/month)",,,[],Private,185.0,2220.0,
+martin loych,38,,employed,0,,156356488.0,marto3es@yahoo.com,2700.0,,"Terminal Illnesses (+€50/month), Tooth (+€15/month)",,,[],Private,165.0,1980.0,
+martin loych,38,,employed,0,,156356488.0,marto3es@yahoo.com,2700.0,,"Terminal Illnesses (+€50/month), Tooth (+€15/month)",,,[],Private,165.0,1980.0,
+martin loych,38,,employed,0,,156356488.0,marto3es@yahoo.com,2700.0,,"Terminal Illnesses (+€50/month), Tooth (+€15/month)",,,[],Private,165.0,1980.0,
+centric lavinuer,38,,employed,0,,0156356848,centric@yahoo.com,2700.0,,"Terminal Illnesses (+€50/month), Tooth (+€15/month)",,,[],Private,165.0,1980.0,

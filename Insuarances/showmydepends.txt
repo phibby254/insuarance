@@ -1,0 +1,3 @@
+Dependencies for Insurance App:
+- streamlit: Web app framework
+- pandas: Data handling (optional, for dependents list)
